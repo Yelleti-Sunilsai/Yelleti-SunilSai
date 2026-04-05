@@ -1,4 +1,6 @@
 ## Hi there 👋
+
+
 # 💫 About Me:
 🔭 I’m currently working on<br><br>* Building **SaaNChat** – a real-time chat app with Firebase & MongoDB<br>* Developing AI-based web projects like a **resume generator tailored to job roles**<br><br>👯 I’m looking to collaborate on<br><br>* Full-stack web apps (React, Next.js, MongoDB)<br>* AI-based projects and hackathons<br><br>🤝 I’m looking for help with<br><br>* Advanced backend architecture & scaling<br>* Real-time systems & WebSockets<br>* AI integration into web apps<br><br>🌱 I’m currently learning<br><br>* TypeScript & Next.js (deep dive 🚀)<br>* Backend development & system design<br>* Machine Learning basics<br><br><br><br><br>
 
